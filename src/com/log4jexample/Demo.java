@@ -10,7 +10,8 @@ private static final Logger LOGGER= LogManager.getLogger();
 	public void m1() {
 		
 		LOGGER.debug("m1 method called...");
-		
+
+		LOGGER.info("m1 method called...");
 		
 	}
 	
